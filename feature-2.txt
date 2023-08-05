@@ -1,0 +1,1 @@
+this is feature-2.txt file from feature-2 branch
